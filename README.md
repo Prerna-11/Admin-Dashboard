@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<a href="https://cool-hummingbird-77598a.netlify.app/">Preview here</a>
 
 ## Available Scripts
 
